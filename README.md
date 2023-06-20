@@ -9,7 +9,7 @@ We have included drive links to sample video footages to test your predictions t
 1. Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/lilNewbie/MIC-Object-Detection-Workshop.git
 ```
 2. If you don't have poetry, install poetry using pip
 
@@ -50,6 +50,11 @@ We have included drive links to sample video footages to test your predictions t
 
 
 9. Results will be displayed and the output video will be stored in the static/output folder 
+
+# LINKS
+- Link to the [dataset](https://drive.google.com/drive/folders/1eE0SwaHKCFt6naJn1QNnviAhz7QgVpS4?usp=sharing)
+- Link to the actual dataset from [Roboflow](https://universe.roboflow.com/kolaman/cesas/dataset/1)
+- Link to [videos](https://drive.google.com/drive/folders/1tUCNzVOf8pc1PibwR7UfOdpmTyiXIW3i?usp=sharing) for testing (download and and then upload them)
 
 ## IMPORTANT
 If you are using poetry for the first time, you may face a Set-ExecutionPolicy (Running scripts is disabled) error. Try [these](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3) and [these](https://youtu.be/yNZMUdpkuBE) fixes.
